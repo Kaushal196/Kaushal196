@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Kaushal
 
-- 🔭 I’m currently working on C# .Net and Javascript
-- 🌱 I’m currently learning React C# and .Net
+- 🔭 I’m currently working on C#, NodeJS and Javascript
+- 🌱 I’m currently learning React, GraphQL
 - 📫 How to reach me: 
 [![Twitter](https://img.shields.io/twitter/follow/Kaushal196?style=social)](https://twitter.com/Kaushal196)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/kaushal196/)](https://www.linkedin.com/in/kaushal196/)
